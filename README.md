@@ -4,6 +4,7 @@
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
+[![Github All Releases](https://img.shields.io/github/downloads/ChenghaoDing90/Mnist-Image-Recognition/total.svg)]()
 
 One to two paragraph statement about your product and what it does.
 
