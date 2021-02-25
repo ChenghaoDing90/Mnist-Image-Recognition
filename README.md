@@ -7,3 +7,4 @@ This is a python notebook to teach how to implement a basic CNN model for MNIST 
 
 Research Question:
 
+<img src="./images/minist.png" alt="The digits images" style="width:300px;height:300px;" />
