@@ -7,4 +7,12 @@ This is a python notebook to teach how to implement a basic CNN model for MNIST 
 
 Research Question:
 
-<img src="./images/minist.png" alt="The digits images" style="width:300px;height:300px;" />
+<img src="./images/minist.PNG" alt="The digits images" style="width:300px;height:300px;" />
+
+### Visualization of CNN model
+
+Here is the screenshot of the output of model.summary().
+
+<p align="center">
+<img src="./images/minimodel.PNG" alt="Summary of VGG Model Building" style="width:300px;height:300px;" />
+</p>
